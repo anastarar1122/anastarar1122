@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Waleed Anas
 
-<!--
-**anastarar1122/anastarar1122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Self-taught Data Scientist | 📊 ML Enthusiast | 💼 Currently building production-ready AI apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔍 What I'm Working On
+
+- 🚀 Image Colorization API with FastAPI + EfficientNet + Docker + TFLite
+- 🔐 Credit Card Fraud Detection Pipeline (XGBoost, Optuna, MLflow)
+- 🧠 Deep Learning: Siamese Networks, CNNs, and Transfer Learning
+- ☁️ Deployments using FastAPI, Docker, and GitHub Actions
+
+---
+
+### 🧰 Tools & Tech Stack
+
+- **Languages**: Python, SQL
+- **ML/DS Libraries**: Pandas, Scikit-Learn, TensorFlow, Keras, Optuna, LightGBM
+- **Deployment**: FastAPI, Docker, GitHub Actions, MLflow
+- **Others**: VSCode, WSL, Typer, PostgreSQL, Git, Kaggle, Google Colab
+
+---
+
+### 📈 GitHub Stats
+
+![Waleed's GitHub stats](https://github-readme-stats.vercel.app/api?username=anastarar1122&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anastarar1122&layout=compact)
+
+---
+
+### 📫 Contact Me
+
+- ✉️ Email: anastarar1122@gmail.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/waleed-anas-996717259/
