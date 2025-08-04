@@ -31,5 +31,5 @@
 
 ### 📫 Contact Me
 
-- ✉️ Email: anastarar1122@gmail.com
+- ✉️ Email: waleed.anas.tarar@gmail.com
 - 🔗 LinkedIn: https://www.linkedin.com/in/waleed-anas-996717259/
